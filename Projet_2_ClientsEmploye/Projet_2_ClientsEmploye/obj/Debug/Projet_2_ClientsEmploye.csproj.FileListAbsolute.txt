@@ -1,0 +1,6 @@
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Projet2\Projet_2_ClientsEmploye\Projet_2_ClientsEmploye\bin\Projet_2_ClientsEmploye.dll.config
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Projet2\Projet_2_ClientsEmploye\Projet_2_ClientsEmploye\bin\Projet_2_ClientsEmploye.dll
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Projet2\Projet_2_ClientsEmploye\Projet_2_ClientsEmploye\bin\Projet_2_ClientsEmploye.pdb
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Projet2\Projet_2_ClientsEmploye\Projet_2_ClientsEmploye\obj\Debug\Projet_2_ClientsEmploye.csprojAssemblyReference.cache
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Projet2\Projet_2_ClientsEmploye\Projet_2_ClientsEmploye\obj\Debug\Projet_2_ClientsEmploye.dll
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Projet2\Projet_2_ClientsEmploye\Projet_2_ClientsEmploye\obj\Debug\Projet_2_ClientsEmploye.pdb
